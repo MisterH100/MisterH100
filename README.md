@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MisterH100
-- 👀 I’m a Web developer, aiming to become Full stack
-- 💞️ Colaborate with me on any front end and backend project.
+- 👀 I’m a Web developer
+- 💞️ Colaborate with me on any front end and backend project, UI/UX research.
 - 📫 How to reach me:
 - 👉[Email](handsomenyathi1@gmail.com)
 - 👉[LinkedIn](linkedin.com/in/handsome-nyathi-9a3116275)
