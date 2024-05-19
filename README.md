@@ -7,7 +7,7 @@ Check out my portfolio on [thehandsomedev.com](https://thehandsomedev.com)
 - 👉[Email](handsomenyathi1@gmail.com)
 - 👉[LinkedIn](linkedin.com/in/handsome-nyathi-9a3116275)
 
-### Daily tool and tech stach
+### Daily tool and tech stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
